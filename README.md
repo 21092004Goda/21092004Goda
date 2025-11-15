@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Java<br>• Spring (Boot/Web/Security/Data)<br>• PostgreSQL<br>• MongoDB<br>• SOLID<br>• Паттерны ООП<br>• REST API<br>• Docker<br>• Yandex Object Storage
+• Java<br>• Spring (Boot/Web/Security/Data)<br>• PostgreSQL<br>• MongoDB<br>• SOLID<br>• Паттерны ООП<br>• REST API<br>• Docker<br>• S3
 
 
 ## 🌐 Socials:
